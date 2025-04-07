@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm **Hossein Seyyedi**  
-🌍 Based in India  
+🌍 Based in Iran
 🚀 I love building clean, functional, and meaningful web apps  
 📬 Reach me on Telegram: [@hosseinsyd](https://t.me/hosseinsyd)
 
