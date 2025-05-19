@@ -1,8 +1,8 @@
-# 💫 About Me:
-👋 Hi, I'm **Hossein Seyyedi**  
-🌍 Based in Iran
-🚀 I love building clean, functional, and meaningful web apps  
-📬 Reach me on Telegram: [@hosseinsyd](https://t.me/hosseinsyd)
+#  About Me:
+Building stuff that makes sense.  
+Not a fan of noise—just clean logic, useful tools, and ideas that stick.  
+Privacy matters, simplicity wins, and if it doesn’t scale, it’s not worth it.  
+No hype, no bullshit—just code.
 
 ---
 
