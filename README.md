@@ -1,9 +1,31 @@
-#  About Me:
-Building stuff that makes sense.  
-Not a fan of noise—just clean logic, useful tools, and ideas that stick.  
-Privacy matters, simplicity wins, and if it doesn’t scale, it’s not worth it.  
-No hype, no bullshit—just code.
+# About Me
 
+I'm a full-stack developer from Iran. For the last 5 years I have worked at
+Mehromah, building the backend of their education platforms. One of them,
+Konkuriom, has around 260K users.
+
+I also built Darsooli, an AI teacher that answers students from their own
+school books. It uses RAG over 154 books to find the right page before
+answering.
+
+My main stack is Laravel, Next.js and Python. I work with RTL and multilingual
+interfaces every day. I have integrated payment gateways, OTP login and SMS
+in real products.
+
+I am moving to Erbil and looking for a full-time role there. I work in English.
+
+# My Work
+
+- Darsooli — AI teacher app → https://darsooli.ir
+- Konkuriom — exam platform, ~260K users → https://konkuriom.mehromah.ir
+- Mehromah app — education platform → https://app.mehromah.ir
+- Neurocognium — medical data platform (backend) → https://web.neurocognium.com
+- Stores I worked on → https://entekhabium.com · https://deltabooks.ir · https://mehrsa.org
+
+# Contact
+
+Email: hosseinsyd997@gmail.com
+LinkedIn: linkedin.com/in/hossein-seyyedi
 ---
 
 ## 🌐 Socials:
