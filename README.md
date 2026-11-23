@@ -16,7 +16,7 @@ I am moving to Erbil and looking for a full-time role there. I work in English.
 
 # My Work
 
-- Darsooli — AI teacher app → https://darsooli.ir
+- Darsooli — AI teacher app → (not public yet — launching soon)
 - Konkuriom — exam platform, ~260K users → https://konkuriom.mehromah.ir
 - Mehromah app — education platform → https://app.mehromah.ir
 - Neurocognium — medical data platform (backend) → https://web.neurocognium.com
