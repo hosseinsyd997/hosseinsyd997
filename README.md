@@ -22,6 +22,8 @@ I am moving to Erbil and looking for a full-time role there. I work in English.
 - Neurocognium — medical data platform (backend) → https://web.neurocognium.com
 - Stores I worked on → https://entekhabium.com · https://deltabooks.ir · https://mehrsa.org
 
+Most of my projects belong to my employer or to clients, so I can't make the code public. The live products are in the links above.
+
 # Contact
 
 Email: hosseinsyd997@gmail.com
